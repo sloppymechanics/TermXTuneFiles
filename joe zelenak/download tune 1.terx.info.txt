@@ -1,0 +1,16 @@
+GC Name: C:\Users\Shlap\Desktop\joe zelenak\download tune 1.terx
+Software Version: 2.0 Build 80
+Save Date: Saturday, September 13, 2025
+Save Time: 09:52:26
+Global ICF Version: 2
+Fuel ICF Version: 2 - 
+Spark ICF Version: 2 - 
+System ICF Version: 2 - 
+Idle ICF Version: 2 - 
+Sensor ICF Version: 2 - 
+I/O ICF Version: 2 - Not present
+Nitrous ICF Version: 2 - Not present
+Boost ICF Version: 2 - Not present
+Transmission ICF Version: 2 - Not present
+DBW ICF Version: 2 - Not present
+Advanced ICF Version: 2 - Not present

@@ -1,0 +1,17 @@
+GC Name: C:\Users\Shlap\Desktop\joe zelenak\v3 updated tune1.terx
+Software Version: 3.0 Build 110
+Save Date: Saturday, September 13, 2025
+Save Time: 13:55:27
+Global ICF Version: 3
+Fuel ICF Version: 3 - MPFI_ZAA.fuel
+Spark ICF Version: 3 - MPFI_ZAA.spark
+System ICF Version: 3 - MPFI.system
+Idle ICF Version: 3 - MPFI_AN.idle
+Sensor ICF Version: 3 - LS.sensor
+I/O ICF Version: 3 - Default.io
+Nitrous ICF Version: 3 - Not present
+Boost ICF Version: 3 - Default.boost
+Transmission ICF Version: 3 - Not present
+DBW ICF Version: 3 - Not present
+Advanced ICF Version: 3 - Default Adv.adv
+Traction ICF Version: 3 - Not present
